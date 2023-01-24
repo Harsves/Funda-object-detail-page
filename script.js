@@ -81,3 +81,18 @@ dotsNav.addEventListener('click', e => {
     updateDots(currentDot, targetDot);
     hideShowArrows(slides, prevButton, nextButton, targetIndex);
 })
+
+// Read more button Description
+
+const parentContainer = document.querySelector('.description');
+
+parentContainer.addEventListener('click', e => {
+    const current = e.target;
+    const btn = current.parentElement;
+    const currentText = btn.parentNode.querySelector('.read-more-text');
+
+    console.log(currentText);
+    currentText.classList.toggle('read-more-text--show');
+
+    btn.classList.toggle('read-more-btn--active');
+})
