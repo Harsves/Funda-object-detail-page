@@ -10,7 +10,7 @@
   * [Licentie](#licentie)
 
 ## Beschrijving
-Een herontwerp van dee Funda object detail page.
+Een herontwerp van de Funda object detail page.
 
 ## Kenmerken
 **Gebruikte tools**
