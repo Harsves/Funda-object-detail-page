@@ -15,8 +15,8 @@
     --dark-gray: #333333;
 
     /* Font */
-    --headers: poppins;
-    --bodytext: roboto;
+    --headers: 'Poppins', sans-serif;
+    --bodytext: 'Roboto', sans-serif;
 
     /* Fontsize */
     --h2: 24px;
@@ -26,7 +26,7 @@
 
     /* Font weight */
     --regular: 400;
-    --medium: 600;
+    --medium: 500;
 }
 
 p {
