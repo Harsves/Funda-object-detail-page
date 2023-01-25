@@ -1,19 +1,32 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
+# Funda opject detail page
 
-# Titel
-<!-- Geef je project een titel en schrijf in één zin wat het is -->
+<img width="386" alt="Schermafbeelding 2023-01-25 om 10 31 32" src="https://user-images.githubusercontent.com/112931845/214527725-4d2347f8-8c56-493c-9672-ba77776166b5.png">
+
+## Inhoudsopgave
+
+  * [Beschrijving](#beschrijving)
+  * [Kenmerken](#kenmerken)
+  * [Bronnen](#bronnen)
+  * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
-<!-- Voeg een mooie poster visual toe 📸 -->
-<!-- Voeg een link toe naar Github Pages 🌐-->
+Een herontwerp van dee Funda object detail page.
 
 ## Kenmerken
-<!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met JS gedaan en hoe? -->
+**Gebruikte tools**
+  * Pen en papier
+  * Adobe XD
+  * VS Code
 
+**Gebruikte techniek**
+  * HTML
+  * CSS
+  * JavaScript
+
+## Bronnen
+https://www.funda.nl/koop/beverwijk/huis-42953606-melis-stokelaan-75/
 
 ## Licentie
-
 ![GNU GPL V3](https://www.gnu.org/graphics/gplv3-127x51.png)
 
 This work is licensed under [GNU GPLv3](./LICENSE).
