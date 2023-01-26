@@ -96,3 +96,21 @@ parentContainer.addEventListener('click', e => {
 
     btn.classList.toggle('read-more-btn--active');
 })
+
+// Call and email footer nav popping up after scrolling
+
+const contactInfoFooter = document.querySelector('.contact-info-footer')
+
+window.addEventListener('scroll', () => {
+  if (window.pageYOffset > 100) {
+    contactInfoFooter.classList.add("contact-info-footer--active");
+  } else {
+    contactInfoFooter.classList.remove("contact-info-footer--active");
+  } 
+})
+
+window.onscroll = function() {
+    if ((window.innerHeight + window.scrollY) >= document.body.offsetHeight) {
+       contactInfoFooter.classList.remove("contact-info-footer--active");
+    }
+};
